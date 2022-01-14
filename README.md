@@ -1,4 +1,4 @@
-# 🟢 Array Querier 🔎
+# 🟢 PISFS 🔎
 [![Compatible Status](https://img.shields.io/badge/works%20with-PS1-blue)](https://github.com/orbitturner/IMPLICIT-SFTP-FILE-SENDER)
 [![Code Size Status](https://img.shields.io/github/languages/code-size/orbitturner/IMPLICIT-SFTP-FILE-SENDER)](https://github.com/orbitturner/IMPLICIT-SFTP-FILE-SENDER)
 [![Commit Status](https://img.shields.io/github/commit-activity/m/orbitturner/IMPLICIT-SFTP-FILE-SENDER?color=red)](https://github.com/orbitturner/IMPLICIT-SFTP-FILE-SENDER)
