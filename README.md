@@ -21,7 +21,7 @@
 
 ___
 ## 📚 Table Of Contents 📑
-- [🟢 Array Querier 🔎](#---array-querier---)
+- [🟢 PIFS 🔎](#---PISF---)
   * [📚 Table Of Contents 📑](#---table-of-contents---)
   * [💨 What is this Library for? 🤔](#---what-is-this-library-for----)
   * [✨ Key Features 🎯](#--key-features---)
