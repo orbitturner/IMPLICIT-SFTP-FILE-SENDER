@@ -116,7 +116,13 @@ If you have found a bug or if you have a feature request, please report them at 
 ___
 
 ## GREETINGS
-❤❤ *Coming Soon !* ❤❤
+
+<p align="center">
+❤❤
+<a href="https://github.com/GalsenDev221/made.in.senegal"><img src="https://github.com/GalsenDev221/made.in.senegal/raw/master/assets/badge.svg"></a>
+❤❤
+</p>
+
 
 ___
 ## Author
